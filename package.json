@@ -1,0 +1,28 @@
+{
+  "name": "nodets",
+  "version": "1.0.0",
+  "description": "Back-end framework for Typescript developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "dev": "nodemon npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimheffy/Node.ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "npm",
+    "node"
+  ],
+  "author": "The Howling Wolves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimheffy/Node.ts/issues"
+  },
+  "homepage": "https://github.com/kimheffy/Node.ts#readme",
+  "dependencies": {
+    "ts-node": "^7.0.1"
+  }
+}
